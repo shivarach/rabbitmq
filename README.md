@@ -1,0 +1,2 @@
+# rabbitmq
+Playing with rabbitmq
